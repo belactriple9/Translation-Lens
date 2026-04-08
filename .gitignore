@@ -1,0 +1,8 @@
+.DS_Store
+.build/
+.swift-module-cache/
+DerivedData/
+
+# Reference repos kept for local reading only.
+Snip-Text/
+sim-daltonism/
